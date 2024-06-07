@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>9SAPIENS</title>
-    <link>https://9sapiens-inc.github.io/9sapiens.github.io/</link>
+    <link>https://9sapiens-inc.github.io/home/</link>
     <description>Recent content on 9SAPIENS</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://9sapiens-inc.github.io/9sapiens.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://9sapiens-inc.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://9sapiens-inc.github.io/9sapiens.github.io/blog/post-1/</link>
+      <link>https://9sapiens-inc.github.io/home/blog/post-1/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/blog/post-1/</guid>
+      <guid>https://9sapiens-inc.github.io/home/blog/post-1/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://9sapiens-inc.github.io/9sapiens.github.io/blog/post-2/</link>
+      <link>https://9sapiens-inc.github.io/home/blog/post-2/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/blog/post-2/</guid>
+      <guid>https://9sapiens-inc.github.io/home/blog/post-2/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://9sapiens-inc.github.io/9sapiens.github.io/blog/post-3/</link>
+      <link>https://9sapiens-inc.github.io/home/blog/post-3/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/blog/post-3/</guid>
+      <guid>https://9sapiens-inc.github.io/home/blog/post-3/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     <item>
       <title>How to build an Application with modern Technology</title>
-      <link>https://9sapiens-inc.github.io/9sapiens.github.io/blog/post-4/</link>
+      <link>https://9sapiens-inc.github.io/home/blog/post-4/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/blog/post-4/</guid>
+      <guid>https://9sapiens-inc.github.io/home/blog/post-4/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
     </item>
     <item>
       <title>A-FDC</title>
-      <link>https://9sapiens-inc.github.io/9sapiens.github.io/a-fdc/</link>
+      <link>https://9sapiens-inc.github.io/home/a-fdc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/a-fdc/</guid>
+      <guid>https://9sapiens-inc.github.io/home/a-fdc/</guid>
       <description>A-FDC (Advanced Fault Detection &amp;amp; Classification) 제조관련 데이터를 실시간으로 분석하여 이상 징후를 감지하고 이를 분류하는 기능을 수행합니다.</description>
     </item>
     <item>
       <title>Elements</title>
-      <link>https://9sapiens-inc.github.io/9sapiens.github.io/elements/</link>
+      <link>https://9sapiens-inc.github.io/home/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/elements/</guid>
+      <guid>https://9sapiens-inc.github.io/home/elements/</guid>
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
       <title>IoT</title>
-      <link>https://9sapiens-inc.github.io/9sapiens.github.io/iot/</link>
+      <link>https://9sapiens-inc.github.io/home/iot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/iot/</guid>
+      <guid>https://9sapiens-inc.github.io/home/iot/</guid>
       <description>IoT 관련 시스템 구축 IoT DM (IoT Data Monitoring)은 다양한 설비들의 모델에 수용 가능한 Frame work을 구축하여 UX를 통합하고, 설비 제조업자들에게 다양한 비즈니스 모델을 제공, 경쟁력 있고 고도화된 서비스를 제공하고자 하는 IoT Alert 통합 플랫폼</description>
     </item>
     <item>
       <title>John Doe</title>
-      <link>https://9sapiens-inc.github.io/9sapiens.github.io/authors/john-doe/</link>
+      <link>https://9sapiens-inc.github.io/home/authors/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/authors/john-doe/</guid>
+      <guid>https://9sapiens-inc.github.io/home/authors/john-doe/</guid>
       <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://9sapiens-inc.github.io/9sapiens.github.io/privacy-policy/</link>
+      <link>https://9sapiens-inc.github.io/home/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/privacy-policy/</guid>
+      <guid>https://9sapiens-inc.github.io/home/privacy-policy/</guid>
       <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     <item>
@@ -80,16 +80,16 @@
     </item>
     <item>
       <title>Sam Wilson</title>
-      <link>https://9sapiens-inc.github.io/9sapiens.github.io/authors/sam-wilson/</link>
+      <link>https://9sapiens-inc.github.io/home/authors/sam-wilson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/authors/sam-wilson/</guid>
+      <guid>https://9sapiens-inc.github.io/home/authors/sam-wilson/</guid>
       <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>SI</title>
-      <link>https://9sapiens-inc.github.io/9sapiens.github.io/si/</link>
+      <link>https://9sapiens-inc.github.io/home/si/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/si/</guid>
+      <guid>https://9sapiens-inc.github.io/home/si/</guid>
       <description>소프트웨어 개발 및 시스템 통합 솔루션 소개 기업의 IT 요구사항을 충족시키기 위한 다양한 소프트웨어 개발 및 시스템 통합 서비스를 제공합니다.</description>
     </item>
     <item>
@@ -101,9 +101,9 @@
     </item>
     <item>
       <title>William Jacob</title>
-      <link>https://9sapiens-inc.github.io/9sapiens.github.io/authors/william-jacob/</link>
+      <link>https://9sapiens-inc.github.io/home/authors/william-jacob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/authors/william-jacob/</guid>
+      <guid>https://9sapiens-inc.github.io/home/authors/william-jacob/</guid>
       <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
   </channel>
