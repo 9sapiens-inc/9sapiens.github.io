@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on 9SAPIENS</title>
-    <link>http://www.9sapiens.com/authors/</link>
+    <link>https://9sapiens-inc.github.io/9sapiens.github.io/authors/</link>
     <description>Recent content in Authors on 9SAPIENS</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://www.9sapiens.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://9sapiens-inc.github.io/9sapiens.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Doe</title>
-      <link>http://www.9sapiens.com/authors/john-doe/</link>
+      <link>https://9sapiens-inc.github.io/9sapiens.github.io/authors/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.9sapiens.com/authors/john-doe/</guid>
+      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/authors/john-doe/</guid>
       <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>Sam Wilson</title>
-      <link>http://www.9sapiens.com/authors/sam-wilson/</link>
+      <link>https://9sapiens-inc.github.io/9sapiens.github.io/authors/sam-wilson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.9sapiens.com/authors/sam-wilson/</guid>
+      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/authors/sam-wilson/</guid>
       <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     <item>
       <title>William Jacob</title>
-      <link>http://www.9sapiens.com/authors/william-jacob/</link>
+      <link>https://9sapiens-inc.github.io/9sapiens.github.io/authors/william-jacob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.9sapiens.com/authors/william-jacob/</guid>
+      <guid>https://9sapiens-inc.github.io/9sapiens.github.io/authors/william-jacob/</guid>
       <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
   </channel>
