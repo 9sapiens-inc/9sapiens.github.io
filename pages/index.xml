@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 9SAPIENS</title>
+    <link>http://www.9sapiens.com/pages/</link>
+    <description>Recent content in Pages on 9SAPIENS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://www.9sapiens.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A-FDC</title>
+      <link>http://www.9sapiens.com/a-fdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.9sapiens.com/a-fdc/</guid>
+      <description>A-FDC (Advanced Fault Detection &amp;amp; Classification) 제조관련 데이터를 실시간으로 분석하여 이상 징후를 감지하고 이를 분류하는 기능을 수행합니다.</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>http://www.9sapiens.com/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.9sapiens.com/elements/</guid>
+      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
+    </item>
+    <item>
+      <title>IoT</title>
+      <link>http://www.9sapiens.com/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.9sapiens.com/iot/</guid>
+      <description>IoT 관련 시스템 구축 IoT DM (IoT Data Monitoring)은 다양한 설비들의 모델에 수용 가능한 Frame work을 구축하여 UX를 통합하고, 설비 제조업자들에게 다양한 비즈니스 모델을 제공, 경쟁력 있고 고도화된 서비스를 제공하고자 하는 IoT Alert 통합 플랫폼</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://www.9sapiens.com/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.9sapiens.com/privacy-policy/</guid>
+      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    <item>
+      <title>SI</title>
+      <link>http://www.9sapiens.com/si/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.9sapiens.com/si/</guid>
+      <description>소프트웨어 개발 및 시스템 통합 솔루션 소개 기업의 IT 요구사항을 충족시키기 위한 다양한 소프트웨어 개발 및 시스템 통합 서비스를 제공합니다.</description>
+    </item>
+  </channel>
+</rss>

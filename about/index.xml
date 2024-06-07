@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hey, I am John Doe! on 9SAPIENS</title>
+    <link>http://www.9sapiens.com/about/</link>
+    <description>Recent content in Hey, I am John Doe! on 9SAPIENS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://www.9sapiens.com/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
